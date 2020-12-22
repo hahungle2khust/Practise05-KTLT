@@ -1,0 +1,6 @@
+﻿  test.cpp
+D:\20201\KTLT\practise5\Practise05-KTLT\practise05\practise05\test.cpp(32,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\20201\KTLT\practise5\Practise05-KTLT\practise05\practise05\test.cpp(37,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\20201\KTLT\practise5\Practise05-KTLT\practise05\practise05\test.cpp(38,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\20201\KTLT\practise5\Practise05-KTLT\practise05\practise05\test.cpp(39,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  practise05.vcxproj -> D:\20201\KTLT\practise5\Practise05-KTLT\practise05\Debug\practise05.exe
